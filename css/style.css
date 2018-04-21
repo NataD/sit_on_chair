@@ -47,6 +47,20 @@ body{
     font-weight: normal;
 }
 
+.work-progress {
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 20px;
+  text-align: center;
+  background-color: #e14c41;
+  margin-top: 0;
+}
+
+.work-progress p {
+  margin: 0 0;
+  padding: 20px 0 20px 0;
+}
+
 /*styles for menu bar*/
 header {
     background-color: black;
@@ -56,6 +70,7 @@ header {
     height: 40px;
     z-index: 4;
 }
+
 .header-container {
   display: flex;
 
